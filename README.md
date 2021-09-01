@@ -27,3 +27,5 @@ Ce chariot fut proposé comme solution à une demande de déplacement de poids e
 
 ## pour ouvrir ce modèle sous FreeCAD il est possible que vous ayez besoin du Mod FS
 ### https://github.com/FarmingSoul/FreeCAD_Mod_FS
+
+### FARMINGSOUL.ORG
