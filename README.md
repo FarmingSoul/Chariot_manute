@@ -6,14 +6,14 @@ Ce chariot de manutention à 2 roues centrales. Ce qui lui permet de transporter
 
 Ce chariot fut proposé comme solution à une demande de déplacement de poids et volume avec le moindre effort.
 
-![chariot](https://github.com/FarmingSoul/Chariot_manute/blob/main/m%C3%A9dia/IMG_20201209_215901.jpg)
+![chariot](https://github.com/FarmingSoul/Chariot_manute/blob/main/media/IMG_20201209_215901.jpg)
 
 * la surface utile est 200X60 (pour 5 caisse de 60X40 par étage)
 * Il y a un tableau à l'avant et des blocages de part et d'autre afin de sécuriser le chargement
 * Les roues sont des roues increvables
 * Le modèle est paramétrable à la taille de l'utilisateur pour un confort optimal
 
-![chariot2](https://github.com/FarmingSoul/Chariot_manute/blob/main/m%C3%A9dia/IMG_20201209_215822.jpg)
+![chariot2](https://github.com/FarmingSoul/Chariot_manute/blob/main/media/IMG_20201209_215822.jpg)
 
 # Feuille de route
 
