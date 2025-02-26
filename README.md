@@ -17,8 +17,8 @@ Ce chariot fut proposé comme solution à une demande de déplacement de poids e
 
 # Feuille de route
 
-* modéliser l'outil (en cours)
-* faire les plans
+* modéliser l'outil (fait)
+* faire les plans (en cours)
 * produire une nomenclature (fait)
 * proposé une fiche de débit
 * prototyper l'outil (fait)
